@@ -1,4 +1,4 @@
-# Lab 7: GameAI
+# Lab 7
 
 ### Snake
 
