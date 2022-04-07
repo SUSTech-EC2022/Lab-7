@@ -1,4 +1,4 @@
-# GameAI-lesson
+# Lab 7: GameAI
 
 ### Snake
 
