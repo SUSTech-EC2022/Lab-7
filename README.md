@@ -43,5 +43,3 @@ http://equius.gil.engineering.nyu.edu/index.php
 ##Rules
 
 ![image](https://github.com/PneuC/GameAI-lesson/blob/main/rules.png)
-
-# Lab-7
